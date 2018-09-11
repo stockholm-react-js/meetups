@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-A primary goal of React JS Stockholm is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of React JS Stockholm is to be inclusive to the largest number of participants possible, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
@@ -38,7 +38,7 @@ The following behaviors are considered harassment and are unacceptable within ou
 *   Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
 *   Inappropriate photography or recording.
 *   Inappropriate physical contact. You should have someone’s consent before touching them.
-*   Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
+*   Unwelcome sexual attention. This includes but are not limited to, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
 *   Deliberate intimidation, stalking or following (online or in person).
 *   Advocating for, or encouraging, any of the above behavior.
 *   Sustained disruption of community events, including talks and presentations.
@@ -55,14 +55,11 @@ If a community member engages in unacceptable behavior, the community organizers
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. stockholm-react-js@googlegroups.com.
 
-
-
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
 ## 7. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Stockholm React Js with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
-
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Stockholm React Js with a concise description of your grievance via email at: stockholm-react-js@googlegroups.com. Your grievance will be handled in accordance with our existing governing policies.
 
 
 ## 8. Scope
