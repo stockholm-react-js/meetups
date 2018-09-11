@@ -1,10 +1,7 @@
 ## How to contribute
 Our goal is to create a healthy and vibrant community around React in Stockholm,
 to do that we encourage everyone that feels that they have something to contribute
-to do just that; contribute.
-
-This guide will show you how you can get started contributing straight away by relying
-on Github.
+to do just that - contribute.
 
 ## Quick links
 * [Events looking for speakers](https://github.com/stockholm-react-js/meetups/labels/Help%20Needed) 
