@@ -35,10 +35,10 @@ The following behaviors are considered harassment and are unacceptable within ou
 *   Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
 *   Posting or displaying sexually explicit or violent material.
 *   Posting or threatening to post other people’s personally identifying information ("doxing").
-*   Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
+*   Personal insults, particularly those related to gender, sexual orientation, ethnicity, religion, or disability.
 *   Inappropriate photography or recording.
 *   Inappropriate physical contact. You should have someone’s consent before touching them.
-*   Unwelcome sexual attention. This includes but are not limited to, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
+*   Unwelcome sexual attention. This includes but are not limited to: sexualized comments or jokes, inappropriate touching, groping, and unwelcomed sexual advances.
 *   Deliberate intimidation, stalking or following (online or in person).
 *   Advocating for, or encouraging, any of the above behavior.
 *   Sustained disruption of community events, including talks and presentations.
@@ -64,7 +64,7 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 
 ## 8. Scope
 
-We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business.
+We expect all community participants to abide by this Code of Conduct in all community venues, including contributors, paid or otherwise, sponsors and other guests. The Code of Conduct applies online as well as in-person and in all one-on-one communications pertaining to community business.
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
