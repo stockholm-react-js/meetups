@@ -20,24 +20,22 @@ Using the template describe your idea
 Get people excited about the idea and get them to help.
 
 ## I want to host an event
+
 ### Step 1
-Open a pull request in this repository
+Clone the repository and create a branch named after your meetup
 
 ### Step 2
-Use the template of the pull request to fill in the information needed.
+Copy the example meetup description found in [events/examples/event-title/meetup.md](events/examples/event-title/meetup.md)
+to events/the-title-of-your-event/meetup.md
 
 ### Step 3
-Use labels to show that you need help with something, perhaps finding
-speakers or something else,
+Push your branch upstream
 
 ### Step 4
+Open a Pull Request. Don't forget to add labels to it if you are looking for speakers or a host
+or just general help.
+
+### Step 5
 After everything is looking great and the community has had their say
 you can merge the pull request which will automatically publish the event
 on https://wwww.meetup.com
-
-## I want to help out 
-Take a look at the issues linked above
-* perhaps you can speak at an event with speakers wanted?
-* perhaps you have a great office you can host the event in?
-* perhaps you have a great idea for a lightning talk?
-
