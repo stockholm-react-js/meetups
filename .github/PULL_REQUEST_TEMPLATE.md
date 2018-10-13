@@ -6,7 +6,7 @@ Describe your event here for the community so that they can better help you in r
 
 ## Hosting an event
 Awesome that you are interested in hosting an event!
-Before we can announce your event there are a few things that need to be handleded however.
+Before we can announce your event there are a few things that need to be handled however.
 
 To make the hosting experience as easy as possible we've written a [hosting guide](https://www.example.com) that goes through all the practical things that need to be taken into account when hosting an event.
 
@@ -16,7 +16,7 @@ looking to speak at an event can easily find it and help out.
 
 ## Finding a host
 Plenty of companies are looking to host an event,
-if you need a host for you event add the label to this PR so that it's easy to find.
+if you need a host for your event add the label to this PR so that it's easy to find.
 
 ## Getting general help
 The community is here to help, ask questions here on your PR or attach the looking for help label to it to signal that you need help.

@@ -25,8 +25,8 @@ Get people excited about the idea and get them to help.
 Clone the repository and create a branch named after your meetup
 
 ### Step 2
-Copy the example meetup description found in [events/examples/event-title/meetup.md](events/examples/event-title/meetup.md)
-to events/the-title-of-your-event/meetup.md
+Copy the example meetup description found in [events/YYMMDD-example-event.md](events/YYMMDD-example-event.md)
+to events/YYMMDD-title-of-your-event.md
 
 ### Step 3
 Push your branch upstream
