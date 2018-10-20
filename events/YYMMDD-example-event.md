@@ -27,7 +27,7 @@ will be all about, be clear and try to get peoples attention. Don't write too mu
 
 **Title:** {{Title of the lightning talk}}
 
-# Food / Drinks
+# Food / Drinks (optional)
 **Food:** {{Comma seperated list of different food}}
 
 **Drinks:** {{Comma seperated list of different drinks}}
