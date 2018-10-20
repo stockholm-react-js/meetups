@@ -18,6 +18,8 @@ will be all about, be clear and try to get peoples attention. Don't write too mu
 
 **Title:** {{Title of the talk}}
 
+**Description:** {{A short description of the talk}}
+
 **Link:** {{Any link}}
 
 # Lightning talks
