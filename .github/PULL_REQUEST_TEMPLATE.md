@@ -1,35 +1,23 @@
-# Introduction
+# Description
+Describe your event here for the community so that they can better help you in realizing the event.
+
+----
+>The content below can be removed from your Pull request description and is meant for you as a host to read.
+
+## Hosting an event
 Awesome that you are interested in hosting an event!
+Before we can announce your event there are a few things that need to be handled however.
 
-This is a template that we use here at Stockholm React JS.
-You can add / remove text from it but please try to keep the structure of it intact.
+To make the hosting experience as easy as possible we've written a [hosting guide](https://www.example.com) that goes through all the practical things that need to be taken into account when hosting an event.
 
-# Your event intro
-The intro text of this event, use this to quickly explain what the event
-will be all about, be clear and try to get peoples attention. Don't write too much.
+## Finding speakers
+You should attach a looking for speakers label to this pull request so that people
+looking to speak at an event can easily find it and help out.
 
-# Hosted by
-**Company Name:**
+## Finding a host
+Plenty of companies are looking to host an event,
+if you need a host for your event add the label to this PR so that it's easy to find.
 
-**Address:**
-
-# Full length talks
-**By:** Name of speaker
-
-**Title:** Title of the talk
-
-**Link:** Any link
-
-# Lightning talks
-**By:** Name of speaker
-
-**Title:** Title of the lightning talk
-
-# Food / Drinks
-**Food:** Comma seperated list of different food
-
-**Drinks:** Comma seperated list of different drinks
-
-*a vegan alternative must be present*
-
-*a non alcoholic alternative must be present*
+## Getting general help
+The community is here to help, ask questions here on your PR or attach the looking for help label to it to signal that you need help.
+Or jump on slack and ask the questions in the hosting channel there.
