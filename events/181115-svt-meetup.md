@@ -27,11 +27,13 @@ As always we hope you'll enjoy the talks and if you (or someone you know) wants 
 **Address:** Oxenstiernsgatan 20
 
 # Full length talks
-**By:** Artem ?
+**By:** Artem Riasnianskyi
 
 **Title:** Framer X
 
-**Description:** Framer X is an advanced interactive design tool, powered by React. In Framer X, you can use actual React components in your design, bringing Code and Design together in a completely new way. We’ll talk about the challenges we encountered while creating Framer X. From how to make a performant graphics editor to building a dynamic component loader.D
+**Description:** Framer X is an advanced interactive design tool, powered by React. In Framer X, you can use actual React components in your design, bringing Code and Design together in a completely new way. We’ll talk about the challenges we encountered while creating Framer X. From how to make a performant graphics editor to building a dynamic component loader.
+
+Artem is a product engineer at Framer, working and living in beautiful Amsterdam. Passioned about performance, usability, and minimalism in code. With the team, he is building game-changing design app Framer X. Occasional cyclist.
 
 **Link:** {{Any link}}
 
