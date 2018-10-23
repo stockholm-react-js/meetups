@@ -39,7 +39,7 @@ Artem is a product engineer at Framer, working and living in beautiful Amsterdam
 
 **By:** Maksim Ivanov
 
-**Title:** React at Dice
+**Title:** Lessons from the battlefield
 
 **Description:** This summer I joined the team working on the latest Battlefield game, and since then I’ve learned a lot about their tools and practices, and how to deliver a high-quality product under tight deadlines. Today I am ready to share the unique experience I had there - case of using web technologies for a AAA game development. We are gonna learn how to ensure code quality and enforce good practices using AST checks.
 
@@ -48,7 +48,7 @@ Artem is a product engineer at Framer, working and living in beautiful Amsterdam
 # Lightning talks
 **By:** Bogdan Lyashenko
 
-**Title:** {{Title of the lightning talk}}
+**Title:** How to stop reading code and start delivering
 
 # Food / Drinks
 **Food:** {{Comma seperated list of different food}}
