@@ -31,11 +31,15 @@ As always we hope you'll enjoy the talks and if you (or someone you know) wants 
 
 **Title:** Framer X
 
+**Description:** Framer X is an advanced interactive design tool, powered by React. In Framer X, you can use actual React components in your design, bringing Code and Design together in a completely new way. We’ll talk about the challenges we encountered while creating Framer X. From how to make a performant graphics editor to building a dynamic component loader.D
+
 **Link:** {{Any link}}
 
 **By:** Maksim Ivanov
 
-**Title:** React at Dice (?)
+**Title:** React at Dice
+
+**Description:** This summer I joined the team working on the latest Battlefield game, and since then I’ve learned a lot about their tools and practices, and how to deliver a high-quality product under tight deadlines. Today I am ready to share the unique experience I had there - case of using web technologies for a AAA game development. We are gonna learn how to ensure code quality and enforce good practices using AST checks.
 
 **Link:** {{Any link}}
 
