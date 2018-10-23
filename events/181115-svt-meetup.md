@@ -9,7 +9,7 @@ Welcome to another Stockholm React Meetup at SVT!
 
 For this event we are borrowing a studio from Sveriges Radio, we'll greet you at the main entrance of Radiohuset.
 
-There are ? seats this time and RSVP will open 5 days before the event.
+There are 100 seats this time and RSVP will open 5 days before the event.
 
 As always we hope you'll enjoy the talks and if you (or someone you know) wants to do a lightning talk or a full talk let us know here on Meetup.com and let's make it happen!
 
