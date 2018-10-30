@@ -46,7 +46,7 @@ Artem is a product engineer at Framer, working and living in beautiful Amsterdam
 **Link:** {{Any link}}
 
 # Lightning talks
-**By:** Bogdan Lyashenko
+**By:** Bohdan Liashenko
 
 **Title:** How to stop reading code and start delivering
 
