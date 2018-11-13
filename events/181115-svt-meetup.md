@@ -1,9 +1,3 @@
-# Introduction
-Awesome that you are interested in hosting an event!
-
-This is a template that we use here at Stockholm React JS.
-Since we parse this file programatically, please **do not** change headers or bold text, but feel free to change any text inside of a section or add anything you find appropriate.
-
 # Your event intro
 Welcome to another Stockholm React Meetup at SVT!
 
@@ -13,9 +7,12 @@ There are 100 seats this time and RSVP will open 8th of November at 12pm.
 
 As always we hope you'll enjoy the talks and if you (or someone you know) wants to do a lightning talk or a full talk let us know here on Meetup.com and let's make it happen!
 
+Schedule:
+
 17.30 Doors open and food
+18:15 Welcome and some info from the organizers
 18.30 First talk
-~19.00 Mingle and "fika"
+~19.00 Mingle
 ~19.30 Second talk
 ~20.00 Break
 ~20.15 Lightning talks
@@ -43,12 +40,16 @@ Artem is a product engineer at Framer, working and living in beautiful Amsterdam
 
 **Description:** This summer I joined the team working on the latest Battlefield game, and since then I’ve learned a lot about their tools and practices, and how to deliver a high-quality product under tight deadlines. Today I am ready to share the unique experience I had there - case of using web technologies for a AAA game development. We are gonna learn how to ensure code quality and enforce good practices using AST checks.
 
+Maksim is software development consultant at 0+x. He specializes in web development and is passionate about functional development in JavaScript using ReactJS and React-Native.
+
 **Link:** {{Any link}}
 
 # Lightning talks
 **By:** Bohdan Liashenko
 
 **Title:** How to stop reading code and start delivering
+
+Bohdan is software development consultant at 0+x.
 
 # Food / Drinks
 **Food:** {{Comma seperated list of different food}}
