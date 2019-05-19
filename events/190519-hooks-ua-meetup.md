@@ -16,9 +16,6 @@ We will make sure that there are snacks and drinks on hand so we can focus on th
 
 If this works and and we think it's fun we will make sure to keep doing events like this in the future.
 
-Attendees (0)
-Photos
-
 
 # Hosted by
 **Company Name:** Universal Avenue AB (https://www.universalavenue.com)
