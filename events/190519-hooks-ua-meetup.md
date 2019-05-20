@@ -1,21 +1,24 @@
 # Your event intro
-This is a bit of a special event where we don't really have speakers etc but rather will try to get together to learn about hooks by doing some programming in small groups.
+This event will be a little bit different than our usual events.
+Instead of being centered around talks where an audience listens we are going to code and learn about a subject together. So grab your laptop and join us for an evening of coding together.
 
-So, as most of you probably know, hooks: https://reactjs.org/docs/hooks-intro.html is a sort of new concept in React and has quite a big impact on how to structure and think about building certain functionality.
+What's it about?
 
-I myself feel as if I haven't really had time to dig into, and experiment with hooks which is why an event such as this was created.
+So, as most of you probably know, hooks: https://reactjs.org/docs/hooks-intro.html is a new concept in React and has quite a big impact on how to structure and think about building certain functionality.
 
-The basic event structure is as follows:
+Some of us haven't really had time to dig into hooks and experiment with them so we thought that an event would be awesome.
 
-We meet at the Universal Avenue office at 18:00, once there we will listen to a lightning talk from Magnus Helmersson, a frontend developer at Universal Avenue who will talk about hooks and what can be done with them.
-After that we will start hacking away and exploring hooks together in small groups, at the end of the evening we will all hopefully have had some time to explore and will have learned a thing or two together.
+How does it work?
 
-Because of the different setup of this event the seats are quite limited, we think we can fit a maximum of 30 people or so.
+We meet at the Universal Avenue office at 18:00, once there we will listen to a lightning talk by Magnus Helmersson, a frontend developer at Universal Avenue who will talk about hooks and what can be done with them.
+
+After that we will start hacking away and explore hooks together in small groups. At the end of the evening we will all hopefully have had some time to explore and will have learned a thing or two together.
+
+Because of the different setup of this event the seats are quite limited, we think we can fit a maximum of 30 people.
 
 We will make sure that there are snacks and drinks on hand so we can focus on the programming and learning together.
 
 If this works and and we think it's fun we will make sure to keep doing events like this in the future.
-
 
 # Hosted by
 **Company Name:** Universal Avenue AB (https://www.universalavenue.com)
