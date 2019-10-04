@@ -4,7 +4,9 @@ Awesome that you are interested in hosting an event!
 This is a template that we use here at Stockholm React JS.
 Since we parse this file programatically, please **do not** change headers or bold text, but feel free to change any text inside of a section or add anything you find appropriate.
 
-# Your event intro
+You may also remove this introduction section.
+
+# Event intro
 {{The intro text of this event, use this to quickly explain what the event
 will be all about, be clear and try to get peoples attention. Don't write too much.}}
 
