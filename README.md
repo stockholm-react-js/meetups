@@ -32,8 +32,8 @@ to events/YYMMDD-title-of-your-event.md
 Push your branch upstream
 
 ### Step 4
-Open a Pull Request. Don't forget to add labels to it if you are looking for speakers or a host
-or just general help.
+Open a Pull Request. Ask for help in the comments of the pull request if you want some labels attached to it,
+Github doesn't allow users without write access to add labels unfortunately. 
 
 ### Step 5
 After everything is looking great and the community has had their say
